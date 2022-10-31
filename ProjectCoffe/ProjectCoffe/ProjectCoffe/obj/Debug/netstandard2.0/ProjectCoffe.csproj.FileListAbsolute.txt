@@ -1,0 +1,17 @@
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\bin\Debug\netstandard2.0\ProjectCoffe.deps.json
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\bin\Debug\netstandard2.0\ProjectCoffe.dll
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\bin\Debug\netstandard2.0\ProjectCoffe.pdb
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\ProjectCoffe.csproj.AssemblyReference.cache
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\ProjectCoffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\MainTabbedPage.xaml.g.cs
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\MenuPage.xaml.g.cs
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\ProjectCoffe.AssemblyInfoInputs.cache
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\ProjectCoffe.AssemblyInfo.cs
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\ProjectCoffe.csproj.CoreCompileInputs.cache
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\ProjectCoffe.dll
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\refint\ProjectCoffe.dll
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\ProjectCoffe.pdb
+C:\Users\benhu\Desktop\ProjectMobileCoffe\ProjectCoffe\ProjectCoffe\ProjectCoffe\obj\Debug\netstandard2.0\ref\ProjectCoffe.dll

@@ -4,21 +4,45 @@
              x:Class="ProjectCoffe.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        <Frame BackgroundColor="#F8C8DC" Padding="24" CornerRadius="0">
+            <Label Text="Coffe Shop" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
-        <Label FontSize="16" Padding="30,24,30,0">
-            <Label.FormattedText>
-                <FormattedString>
-                    <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
-                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
-                    </FormattedString.Spans>
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
+
+        <Frame BackgroundColor="#F8C8DC" Padding="24" CornerRadius="0">
+            <Button x:Name="MenuButton" Text="Menu" TextColor="White" FontSize="36" BackgroundColor="Transparent" Clicked="MenuButton_Clicked" />
+        </Frame>
+
+        <Frame BackgroundColor="#F8C8DC" Padding="24" CornerRadius="0">
+            <Label Text="About us" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Frame BackgroundColor="#F8C8DC" Padding="24" CornerRadius="0">
+            <Label Text="Map page" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Frame BackgroundColor="#F8C8DC" Padding="24" CornerRadius="0">
+            <Label Text="Espresso" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Frame BackgroundColor="#F8C8DC" Padding="24" CornerRadius="0">
+            <Label Text="Hot Drinks" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Frame BackgroundColor="#F8C8DC" Padding="24" CornerRadius="0">
+            <Label Text="Cold Drinks" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Frame BackgroundColor="#F8C8DC" Padding="24" CornerRadius="0">
+            <Label Text="Quick Bites" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+
+        <Label Text="Grab your coffe today!" FontSize="Title" Padding="30,10,30,10"/>
+        <Label FontSize="16" Padding="30,24,30,0"></Label>
+        
+        
     </StackLayout>
+    
+    
 
 </ContentPage>
